@@ -21,5 +21,5 @@ function countBs(string) {
 //     var matchExp = new RegExp(character, 'g');
 //     return str.match(matchExp).length;
 // };
-// console.log(countChar("harshil", "h"))
-// console.log(countBs("ABBCD"));
+console.log(countChar("harshil", "h"))
+console.log(countBs("ABBCD"));
