@@ -12,7 +12,7 @@ function countBs(string) {
     return countChar(string, "B");
 }
 
-//----ANOTHER WAY(NEW WAY)----
+//----ANOTHER WAY(NEW WAY BY USING REGEX)----
 // var countBs = function(str) {
 //     return str.match(/B/g).length;
 // };
