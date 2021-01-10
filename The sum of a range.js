@@ -18,7 +18,7 @@ function sum(array) {
     for (let value of array) {
         total += value;
     }
-    return total
+    return total;
 }
 console.log(range(1, 10))
 

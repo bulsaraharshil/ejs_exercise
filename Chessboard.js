@@ -11,3 +11,5 @@ for (i = 0; i < size; i++) {
     board += "\n"
 }
 console.log(board);
+
+//need to see this
